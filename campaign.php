@@ -13,7 +13,7 @@ $bodyClass = 'campaign-page';
 		<div class="col-md-7 col-xs-12">
 			<h3 class="nav-font">VUI HÈ CÙNG AQUAKIDS</h3>
 			<div class="row-gap-medium"></div>
-			<p>Để đón hè cùng các bè, Aquakids sẽ dành tặng 400 phần quà cho các bé từ 3 – 12 tuổi (mỗi phần quà là 2 lốc Aquakids, mỗi lốc 5 hộp). Phụ huynh chỉ cần điền thông tin đăng ký để nhận quà.</p>
+			<p>Để đón hè cùng các bé, Aquakids sẽ dành tặng 400 phần quà cho các bé từ 3 – 12 tuổi (mỗi phần quà là 2 lốc Aquakids, mỗi lốc 5 hộp). Phụ huynh chỉ cần điền thông tin đăng ký để nhận quà.</p>
 
 			<h3>Thời gian đăng ký</h3>
 			<p>Từ 26/06 – 30/06/2017 (thứ Hai đến thứ Sáu)</p>
@@ -21,13 +21,13 @@ $bodyClass = 'campaign-page';
 			<h3>Thời gian đến nhận quà</h3>
 			<p>Từ 3/07 – 7/07/2017 (thứ Hai đến thứ Sáu)</p>
 
-			<h3>Địa điểm nhận quà:</h3>
+			<h3>Địa điểm nhận quà (9h00 – 16h30):</h3>
 
 			<p>TP.HCM: Công Ty Hy Vọng Việt, 130 Nguyễn Thị Minh Khai, Quận 3</p>
 
 			<p>Hà Nội: 104 Lò Đúc, Đống Mác, Hai Bà Trưng</p>
 			<div class="row-gap-medium"></div>
-			<p>Để biết thêm chi tiết, vui lòng gọi điện thoại đến số: 0976904809 (Hà Nội) hoặc số: 02839309310 (TP.HCM).</p>
+			<p>Để biết thêm chi tiết, vui lòng gọi điện thoại đến số: 0976904809 (Hà Nội) hoặc số: 02839309310 (TP.HCM) từ 9h00 – 16h30.</p>
 		</div>
 		<div class="col-md-5 col-xs-12 form-wrapper">
 			<h3 class="nav-font">Thông Tin Đăng Ký</h3>
