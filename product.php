@@ -12,7 +12,7 @@ $bodyClass = 'product-page';
     <div class="container">
         <div class="row-gap-large"></div>
         <div class="row text-center">
-            <div class="col-xs-12 col-md-6">
+            <div class="col-xs-12 col-md-6 hidden">
                 <h2>Thức uống <span class="break-line">bảo vệ sức khoẻ</span></h2>
                 <div class="row-gap-medium"></div>
                 <a href="#olive-collagen" class="link-default"><img class="img-responsive" src="./img/olive_collagen.png" alt=""></a>
@@ -69,7 +69,7 @@ $bodyClass = 'product-page';
 
 <div class="row-gap-medium"></div>
 
-<div class="container" id="olive-collagen">
+<div class="container hidden" id="olive-collagen">
     <div class="row">
         <div class="col-xs-12 col-md-6 col-banner visible-xs visible-sm">
             <h2 class="text-right">Thức uống bảo vệ <span class="break-line">sức khoẻ</span></h2>

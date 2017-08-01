@@ -76,7 +76,7 @@ $bodyClass = 'distribution-page';
 <div class="row-gap-medium"></div>
 <div class="row-gap-large"></div>
 
-<div class="container" id="olive-collagen">
+<div class="container hidden" id="olive-collagen">
     <div class="row">
         <div class="col-xs-12 col-md-6 col-banner">
         	<div class="separator bottom-gap hidden-xs hidden-sm"></div>
